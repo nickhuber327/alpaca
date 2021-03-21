@@ -1,0 +1,10 @@
+websocket
+websocket-client
+flask
+requests
+plotly
+pandas
+yfinance
+streamlit
+numpy
+alpaca_trade_api

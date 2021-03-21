@@ -1,0 +1,11 @@
+config.py
+etc/
+Include/
+Lib/
+Scripts/
+share/
+*.cfg
+__pycache__/
+bin/
+include/
+lib/
