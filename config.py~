@@ -1,9 +1,0 @@
-#Name:config.py
-#Author: Nick Huber
-#Date: 20210320
-#keys
-
-API_KEY = "PKQ0OSXSOZ45MHHVF511"
-SECRET_KEY = "STzhE4b2De31frWIdD1tsp3QdKGi4Pn3EtxHQkw6"
-
-HEADERS = {'APCA-API-KEY-ID' : API_KEY, 'APCA-API-SECRET-KEY' : SECRET_KEY}
